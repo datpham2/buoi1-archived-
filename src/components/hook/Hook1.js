@@ -9,7 +9,7 @@ function Hook1() {
     }
     return (
         <div>
-            <h1>Tìm hiểu useState - Green Academy</h1>
+            <h1>Tìm hiểu useState - Green Academy - Update Header</h1>
             <p>Count: {count}</p>
             <button onClick={handle_count_up}>Count Up</button>
         </div>
